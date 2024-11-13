@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aviral_tara" target="blank"><img src="https://img.shields.io/twitter/follow/aviral_tara?logo=twitter&style=for-the-badge" alt="aviral_tara" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter , node js , mongo DB**
+- 🌱 I’m currently learning **React Native , node js , mongo DB**
 
 - 💬 Ask me about **Flutter and dart**
 
