@@ -3,9 +3,7 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aviraltara&label=Profile%20views&color=0e75b6&style=flat" alt="aviraltara" /> </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aviraltara&theme=onedark&no-frame=true&margin-w=10&row=1" />
-</p>
+
 
 <p align="left"> <a href="https://twitter.com/aviral_tara" target="blank"><img src="https://img.shields.io/twitter/follow/aviral_tara?logo=twitter&style=for-the-badge" alt="aviral_tara" /></a> </p>
 
